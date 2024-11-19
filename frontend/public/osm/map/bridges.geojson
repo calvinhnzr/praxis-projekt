@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "bridges",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 303638544, "bridge": "yes", "layer": "1", "service": "crossover", "railway": "rail", "operator": null, "ref": null, "railway:pzb": "yes", "maxspeed": "60", "gauge": "1435", "electrified": "no", "railway:track_ref": "2", "passenger_lines": null, "tracks": null, "usage": null }, "geometry": { "type": "LineString", "coordinates": [ [ 7.5647498, 51.021763 ], [ 7.5643509, 51.0213997 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 333539683, "bridge": "yes", "layer": "1", "service": null, "railway": "rail", "operator": "DB Netz AG", "ref": "2810", "railway:pzb": "yes", "maxspeed": "60", "gauge": "1435", "electrified": "no", "railway:track_ref": "1", "passenger_lines": "1", "tracks": "1", "usage": "branch" }, "geometry": { "type": "LineString", "coordinates": [ [ 7.5648222, 51.0217576 ], [ 7.5644379, 51.0214147 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 33855834, "bridge": "yes", "layer": "1", "service": null, "railway": "rail", "operator": "DB Netz AG", "ref": "2810", "railway:pzb": "yes", "maxspeed": "60", "gauge": "1435", "electrified": "no", "railway:track_ref": null, "passenger_lines": "1", "tracks": "1", "usage": "branch" }, "geometry": { "type": "LineString", "coordinates": [ [ 7.5619845, 51.0264431 ], [ 7.5622018, 51.026479 ], [ 7.5623762, 51.0265075 ], [ 7.5625522, 51.0265342 ], [ 7.5627343, 51.0265578 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 691949728, "bridge": "yes", "layer": "1", "service": null, "railway": "rail", "operator": "DB Netz AG", "ref": "2810", "railway:pzb": "yes", "maxspeed": "60", "gauge": "1435", "electrified": "no", "railway:track_ref": null, "passenger_lines": "1", "tracks": "1", "usage": "branch" }, "geometry": { "type": "LineString", "coordinates": [ [ 7.5627343, 51.0265578 ], [ 7.5628963, 51.0265731 ], [ 7.5630957, 51.0265859 ], [ 7.5632638, 51.0265901 ], [ 7.5634061, 51.0265894 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 715073551, "bridge": "yes", "layer": "1", "service": null, "railway": "rail", "operator": "DB Netz AG", "ref": "2810", "railway:pzb": "yes", "maxspeed": "60", "gauge": "1435", "electrified": "no", "railway:track_ref": null, "passenger_lines": "1", "tracks": "1", "usage": "branch" }, "geometry": { "type": "LineString", "coordinates": [ [ 7.5648622, 51.0263287 ], [ 7.5649677, 51.0262895 ], [ 7.5650841, 51.0262423 ] ] } }
+]
+}
