@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "water_lines",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 88249337, "layer": "-1", "waterway": "stream", "name": "Gummersbach", "tunnel": "yes", "boat": "no" }, "geometry": { "type": "LineString", "coordinates": [ [ 7.5617765, 51.0197779 ], [ 7.5623757, 51.0191934 ], [ 7.5622805, 51.0183615 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 88249339, "layer": null, "waterway": "stream", "name": "Gummersbach", "tunnel": null, "boat": "no" }, "geometry": { "type": "LineString", "coordinates": [ [ 7.561412, 51.020258 ], [ 7.5616689, 51.0200198 ], [ 7.5617765, 51.0197779 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 88245043, "layer": "-1", "waterway": "stream", "name": "Gummersbach", "tunnel": "culvert", "boat": "no" }, "geometry": { "type": "LineString", "coordinates": [ [ 7.5576003, 51.0328892 ], [ 7.5576578, 51.0325102 ], [ 7.5578683, 51.0318115 ], [ 7.5578862, 51.0314847 ], [ 7.5587822, 51.0304339 ], [ 7.5586792, 51.0298197 ], [ 7.5594273, 51.029135 ], [ 7.5600455, 51.0286843 ], [ 7.5610086, 51.0283462 ], [ 7.5615283, 51.0279179 ], [ 7.5627423, 51.0271628 ], [ 7.5630693, 51.0266979 ], [ 7.5639877, 51.0266585 ], [ 7.5648478, 51.0265232 ], [ 7.5651614, 51.0264049 ], [ 7.5645924, 51.0257625 ], [ 7.5648388, 51.0231223 ], [ 7.561412, 51.020258 ] ] } }
+]
+}

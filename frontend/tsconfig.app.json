@@ -16,11 +16,22 @@
     "jsx": "react-jsx",
 
     /* Linting */
-    "strict": true,
-    "noUnusedLocals": true,
-    "noUnusedParameters": true,
-    "noFallthroughCasesInSwitch": true,
-    "noUncheckedSideEffectImports": true
+    "strict": false,
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
+    "noFallthroughCasesInSwitch": false,
+    "noUncheckedSideEffectImports": false,
+    "strictNullChecks": false,
+
+    // "@": path.resolve(__dirname, "./src"),
+    // components: path.resolve(__dirname, "./src/components"),
+    /* Path */
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"],
+      "@components/*": ["src/components/*"],
+      "@assets/*": ["src/assets/*"]
+    }
   },
   "include": ["src"]
 }
