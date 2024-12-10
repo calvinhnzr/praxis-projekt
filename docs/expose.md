@@ -158,13 +158,16 @@ Das System richtet sich primär an Studierende und Studieninteressierte der Tech
 
 ## Mögliche Fragestellungen
 
-- Welche Chancen bietet ein 3-Dimensioneller Lageplan zur Orientierung an Hochschulen und Universitäten?
-- Wie kann die Orientierung durch einen interaktiven Gebäudeplan an Studienstandorten verbessert werden?
-- Welche Technologien eignen sich zur Umsetzung eines digitalen Lageplans?
-- Wie sieht der aktueller Stand zu 3D im Web aus?
-- Wie kann meinen einen Gebäudeplan 3-Dimensional im Web darstellen
-- Was sind die Herausforderungen bei WebGl im Web?
-- ...
+- Konzeption und Entwicklung einer Web Anwendung zur Darstellung eines 3-Dimensionalen Campusplans am Beispiel Gummersbach.
+- Konzeption und Entwicklung einer Web Anwendung zur Orientierung und Information 
+- Konzeption und Entwicklung einer Web Anwendung zur Darstellung eines 3-Dimensionalen Campusplans zur Orientierung und Information am Beispiel Gummersbach.
+- Konzeption und Entwicklung einer Web Anwendung zur Darstellung eines 3-Dimensionalen Campusplans für den Standort Gummersbach.
+- Konzeption und Entwicklung einer Web-Anwendung eines 3-Dimensionalen Campusplans am Standort Gummersbach
+- Konzeption und Entwicklung einer webbasierten 3D-Visualisierung des Campus Gummersbach zur Information und Orientierung.
+- Konzeption und Entwicklung eines 3-Dimensionalen Campusplans am Standort Gummersbach als Web-Anwendung.
+- Konzeption und Entwicklung eines 3-Dimensionalen Campusplans im Web für den Standort Gummersbach.
+- Konzeption und Umsetzung eines  3-Dimensionalen Campussplans am Beispiel Standort Gummersbach zur Orientierung und Information.
+- Entwicklung und Konzeption eines interaktiven 3D-Campusplans als Web Anwendung für Information und Orientierung am Standort Gummersbach
 
 
 ## Inspirationsquellen
