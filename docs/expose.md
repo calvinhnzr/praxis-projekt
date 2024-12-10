@@ -156,7 +156,7 @@ Das System richtet sich primär an Studierende und Studieninteressierte der Tech
 ![Sketch](./img/sketch.png)
 
 
-## Mögliche Fragestellungen
+## Mögliche Projekttitel
 
 - Konzeption und Entwicklung einer Web Anwendung zur Darstellung eines 3-Dimensionalen Campusplans am Beispiel Gummersbach.
 - Konzeption und Entwicklung einer Web Anwendung zur Orientierung und Information 
